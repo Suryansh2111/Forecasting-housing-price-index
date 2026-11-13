@@ -52,7 +52,6 @@ fedfunds leads HPI inversely
 
 Best Model: SARIMA(1,1,1)(0,1,1)
 
-MAPE: 0.38%
 
 RMSE: 0.99
 
